@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AkaiKKR Documents
-description: Technical Instructions for AkaiKKR Users
-url: "https://academeia.github.io/AkaiKKR_Documents/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "AkaiKKR_Documents" # the subpath of your site, e.g. /blog
+title: mn2007 Documents
+description: Technical Instructions Users
+url: "https://mn2007.github.io/mn2007_github_io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "mn2007_github_io" # the subpath of your site, e.g. /blog
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
