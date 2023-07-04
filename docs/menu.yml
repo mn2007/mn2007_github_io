@@ -1,0 +1,16 @@
+primary:
+  - title: Main Menu
+    subfolderitems:
+      - name: "Home"
+        url: "/mn2007_github_io/"
+        weight: 2
+      - name: "Test"
+        url: "#"
+        weight: 3
+        subsubfolderitems:
+          - name: "Test1"
+            url: "/mn2007_github_io/test1"
+            weight: 2
+          - name: "Test2"
+            url: "//mn2007_github_io/test2"
+            weight: 2
