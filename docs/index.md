@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /mn2007_github_io/
+permalink: /
 ---
 
 # アップデート
