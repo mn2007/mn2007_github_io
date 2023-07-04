@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: mn2007 Documents
-description: Technical Instructions Users
+description: Technical Instructions for Users
 url: "https://mn2007.github.io/mn2007_github_io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "mn2007_github_io" # the subpath of your site, e.g. /blog
 
