@@ -22,14 +22,13 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-      <!--<nav>
-        <ul class="main-nav">
-          <li><a href="md/test1.md">テスト1</a></li>
-          <li><a href="md/test2.md">テスト2</a></li>
-        </ul>
-      </nav>-->
     </header>
-
+    <nav>
+        <ul class="nav-links">
+            <li><a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>ホーム</a></li>
+            <li><a href="/test1" {% if page.title == "test1" %}class="active-page"{% endif %}>テスト1</a></li>
+        </ul>
+    </nav>
     <main id="content" class="main-content" role="main">
       {{ content }}
 

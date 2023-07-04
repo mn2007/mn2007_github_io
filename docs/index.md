@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
 # アップデート
 
 - [テスト1](./md/test1.md)
