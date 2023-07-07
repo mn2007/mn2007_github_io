@@ -76,11 +76,14 @@ $blockquote-text-color: #333333;
   color: rgb(255, 255, 255);
 }
 
+body {
+  font-family: "Meiryo UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background: #181818;
     color: #bac1c4;
-    font-family: "Meiryo UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
   
   .page-header {
