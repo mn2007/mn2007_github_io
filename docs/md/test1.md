@@ -7,5 +7,3 @@ permalink: /test1
 # test1
 
 テスト1
-
-$10^2$
